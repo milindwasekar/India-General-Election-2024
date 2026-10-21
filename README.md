@@ -6,3 +6,5 @@
 3. Empower your analysis with data-driven clarity.
 4. Discover how data shapes democracy and unlock stories hidden in the numbers.
 
+(https://github.com/milindwasekar/India-General-Election-2024/blob/main/1_Election%202024%20Overview.png)
+
